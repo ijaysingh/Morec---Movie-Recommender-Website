@@ -1,2 +1,2 @@
 # Morec---Movie-Recommender-Website
-WEbsite link: morec.herokuapp.com
+WEbsite link: https://morec.herokuapp.com/
